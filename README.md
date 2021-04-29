@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<a href="https://www.linkedin.com/in/dparraho/">
+  <img align="left"  width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <!--
 **dparraho/dparraho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
